@@ -6,3 +6,4 @@ mlxtend==0.23.3
 scikit-surprise==1.1.4
 openpyxl==3.1.5
 dmba==0.2.4
+statsmodels-0.14.4
